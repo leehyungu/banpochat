@@ -1,8 +1,6 @@
 ## 반포중학교 신입생을 위한 학교생활안내 챗봇
 
-You can use the [editor on GitHub](https://github.com/leehyungu/banpochat/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+반포중학교 신입생~ 여러분 반갑습니다. 코로나19로 인해 대면으로 학교생활을 안내해야 하는데 챗봇을 통해 학교생활을 안내 하려 합니다.
 
 ### Markdown
 
