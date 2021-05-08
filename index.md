@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 반포중학교 신입생을 위한 학교생활안내 챗봇
 
 You can use the [editor on GitHub](https://github.com/leehyungu/banpochat/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
