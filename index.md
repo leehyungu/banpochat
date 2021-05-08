@@ -26,7 +26,9 @@ Syntax highlighted code block
 ```
 
 
-자세한 내용과 양식은 반포중학교 홈페이지를 참조해 주시기 바랍니다.[반포중 홈페이지](https://banpo.sen.ms.kr/index.do).
+자세한 내용과 양식은 반포중학교 홈페이지를 참조해 주시기 바랍니다.
+[반포중 홈페이지](https://banpo.sen.ms.kr/index.do)[반포중 홈페이지]
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
