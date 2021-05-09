@@ -17,7 +17,7 @@
 
 ### 챗봇 구성도 화면
 
-
+![flow](https://user-images.githubusercontent.com/16274293/117557559-e8b66e00-b0ae-11eb-88ff-425079c98dd8.png)
 
 
 
