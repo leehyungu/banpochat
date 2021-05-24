@@ -22,7 +22,7 @@
 ### 챗봇 구성도 화면
 
 
-![flow5](https://user-images.githubusercontent.com/16274293/119277216-47f0b280-bc59-11eb-81be-8e43bb90e562.png)
+![flow526](https://user-images.githubusercontent.com/16274293/119377758-74a7d700-bcf8-11eb-8d97-fb8aba69f956.png)
 
 
 
