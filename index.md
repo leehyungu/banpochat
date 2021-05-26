@@ -19,7 +19,7 @@
 
 
 
-### 챗봇 수행 흐름
+### 챗봇 수행 흐름도
 
 
 ![flow526](https://user-images.githubusercontent.com/16274293/119377758-74a7d700-bcf8-11eb-8d97-fb8aba69f956.png)
