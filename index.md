@@ -22,14 +22,13 @@
 처음으로 돌아가려면 "메뉴" 버튼을 클릭하거나 " 메뉴"를 입력해 주세요?
 해당 내용의 "키워드"를 입력하면 챗봇이 답변합니다. 
 
-![세부 내용](https://user-images.githubusercontent.com/16274293/121293254-45af7900-c926-11eb-89a9-39ba947a3be1.JPG)
+![세부 내용02](https://user-images.githubusercontent.com/16274293/121293611-e140e980-c926-11eb-9e08-836000325691.JPG)
 
 
 ### 챗봇 수행 흐름도
 
 
 ![flow526](https://user-images.githubusercontent.com/16274293/119377758-74a7d700-bcf8-11eb-8d97-fb8aba69f956.png)
-
 
 
 
